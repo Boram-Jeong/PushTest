@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "161600526144",
+    "project_id": "gcm-test-180304"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161600526144:android:9b78a9c5e5303a79",
+        "android_client_info": {
+          "package_name": "smartcam.gcm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161600526144-ghonstu5u6tqihg07vv62nr7m8o3gla3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyov_eoW3-wSla58aE0jbfVWW-4_NBZS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161600526144:android:2690080268dc0591",
+        "android_client_info": {
+          "package_name": "com.example.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161600526144-ghonstu5u6tqihg07vv62nr7m8o3gla3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyov_eoW3-wSla58aE0jbfVWW-4_NBZS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
